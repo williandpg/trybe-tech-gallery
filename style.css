@@ -21,3 +21,8 @@ img {
 a {
   color: white;
 }
+
+.text-section {
+  display: flex;
+  justify-content: center;
+}

@@ -13,7 +13,7 @@ body {
   justify-content: space-evenly;
 }
 
-img {
+.header-img {
   height: 50px;
   width: 50px;
 }
@@ -28,6 +28,28 @@ a {
 }
 
 .gallery {
+  border: 1px solid black;
   display: flex;
   justify-content: center;
+}
+
+.card-image {
+  width: 150px;
+  height: 150px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.social-instagram {
+  width: 30px;
+  height: 30px;
+}
+
+.social-linkedin {
+  width: 30px;
+  height: 30px;
 }
